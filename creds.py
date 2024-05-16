@@ -1,5 +1,5 @@
-KEY_ID = "PKRRZ7XHF75FBKI86Q0M"
-SECRET_KEY = "QX4FFXTpDlzcCFeoWVRQaEo2K7JtjVAS2Ip7ENhV"
+KEY_ID = "your_key_id"
+SECRET_KEY = "your_secret_key"
 BASE_URL = "https://paper-api.alpaca.markets/v2"
 
 APLACA_CREDS = {
